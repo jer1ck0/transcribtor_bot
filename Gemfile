@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'telegram-bot-ruby'
+gem 'httparty'
+gem 'aws-sdk-s3'
+gem 'json'
+gem 'ostruct'
+gem 'dotenv'
